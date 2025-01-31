@@ -33,7 +33,6 @@ This is a classic Pong game implemented using MonoGame in C#. The game features 
 2. Clone this repository:
    ```sh
    git clone https://github.com/Heroftime/Pong.git
-   cd monogame-pong
    ```
 3. Open the project in Visual Studio.
 4. Build and run the project (`F5`).
